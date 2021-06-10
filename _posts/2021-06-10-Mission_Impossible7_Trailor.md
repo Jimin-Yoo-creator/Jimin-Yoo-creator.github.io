@@ -1,3 +1,14 @@
+---
+layout: single
+title: "내가 좋아하는 영화들"
+toc: true
+toc_sticky: true
+toc_label: "페이지 주요 목차"
+
+--- 
+
+### 01. 미션임파서블
+
 미션임파서블 7 예고편
 
 내가 가장 좋아하는 첩보물 시리즈 중 하나~~
