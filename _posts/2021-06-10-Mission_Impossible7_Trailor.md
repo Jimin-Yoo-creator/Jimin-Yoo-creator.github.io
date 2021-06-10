@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "내가 좋아하는 영화들"
+title: "내가 좋아하는 영화들🎥"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
