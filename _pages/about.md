@@ -1,5 +1,5 @@
 ---
-title: "Jimin's bloggy 소개:
+title: "개념"
 permalink: /aboout/
 layout: single
 ---
