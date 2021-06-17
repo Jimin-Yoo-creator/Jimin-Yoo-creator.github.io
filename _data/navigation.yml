@@ -1,11 +1,12 @@
 # main links
 main:
   - title: "About me"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/ABout/
+    url: https://jimin-yoo-creator.github.io/intro/
+    https://jimin-yoo-creator.github.io/Mission_Impossible7_Trailor/
   - title: "WHO"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/WHO/
+    url: https://jimin-yoo-creator.github.io/My-first-post/
   - title: "C programming"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/c/
+    url: https://jimin-yoo-creator.github.io/If/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
