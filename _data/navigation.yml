@@ -1,17 +1,8 @@
 # main links
 main:
-  - title: "About me"
-    url: https://jimin-yoo-creator.github.io/intro/
-    https://jimin-yoo-creator.github.io/Mission_Impossible7_Trailor/
-  - title: "WHO"
-    url: https://jimin-yoo-creator.github.io/My-first-post/
-  - title: "C programming"
-    url: https://jimin-yoo-creator.github.io/If/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "개념"
+    url: /categories/
+  -title: "연도"
+    url: /posts/
+  -title: "소개"
+    url: /about/
