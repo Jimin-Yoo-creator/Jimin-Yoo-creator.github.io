@@ -1,5 +1,5 @@
 ---
-title: "개념"
+title: "소개"
 permalink: /aboout/
 layout: single
 ---
