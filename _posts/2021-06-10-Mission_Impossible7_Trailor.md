@@ -6,7 +6,6 @@ toc_sticky: true
 toc_label: "페이지 주요 목차"
 toc_label: "페이지 주요 목차" categories: About me
 last_modified_at: 2021-06-17 T08:06:00-05:00
-
 --- 
 
 영화광이라 영화는 정말 수도 없이 봤지만 요 영화들은 기억에 남는 영화들~!!
